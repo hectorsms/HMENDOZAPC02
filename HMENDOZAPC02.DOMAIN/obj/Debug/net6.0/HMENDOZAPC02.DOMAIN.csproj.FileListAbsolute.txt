@@ -1,0 +1,14 @@
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\bin\Debug\net6.0\HMENDOZAPC02.DOMAIN.deps.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\bin\Debug\net6.0\HMENDOZAPC02.DOMAIN.runtimeconfig.json
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\bin\Debug\net6.0\HMENDOZAPC02.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\bin\Debug\net6.0\HMENDOZAPC02.DOMAIN.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.AssemblyInfo.cs
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\refint\HMENDOZAPC02.DOMAIN.dll
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.pdb
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\HMENDOZAPC02.DOMAIN.genruntimeconfig.cache
+C:\Users\Hector Mendoza\OneDrive\Escritorio\Universidad\DESWEB\HMendozaPC02\HMENDOZAPC02.DOMAIN\obj\Debug\net6.0\ref\HMENDOZAPC02.DOMAIN.dll

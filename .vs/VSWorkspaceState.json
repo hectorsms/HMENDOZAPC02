@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HMendozaPC02.API",
+    "\\HMendozaPC02.API\\bin",
+    "\\HMendozaPC02.API\\bin\\Debug",
+    "\\HMendozaPC02.API\\bin\\Release",
+    "\\HMendozaPC02.API\\Controllers",
+    "\\HMendozaPC02.API\\obj",
+    "\\HMendozaPC02.API\\Properties",
+    "\\HMENDOZAPC02.DOMAIN",
+    "\\HMENDOZAPC02.DOMAIN\\Core",
+    "\\HMENDOZAPC02.DOMAIN\\Core\\DTOs"
+  ],
+  "SelectedNode": "\\HMendozaPC02.sln",
+  "PreviewInSolutionExplorer": false
+}

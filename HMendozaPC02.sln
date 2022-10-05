@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMendozaPC02.API", "HMendozaPC02.API\HMendozaPC02.API.csproj", "{121644B3-F439-436B-80D0-B7FBC1FD12C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMENDOZAPC02.DOMAIN", "HMENDOZAPC02.DOMAIN\HMENDOZAPC02.DOMAIN.csproj", "{4E7E6E87-D9F4-4859-96A5-786B88BB363F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121644B3-F439-436B-80D0-B7FBC1FD12C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121644B3-F439-436B-80D0-B7FBC1FD12C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121644B3-F439-436B-80D0-B7FBC1FD12C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121644B3-F439-436B-80D0-B7FBC1FD12C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7E6E87-D9F4-4859-96A5-786B88BB363F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7E6E87-D9F4-4859-96A5-786B88BB363F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7E6E87-D9F4-4859-96A5-786B88BB363F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7E6E87-D9F4-4859-96A5-786B88BB363F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5CBDEB-FD9A-4489-945E-66A4D6932FFC}
+	EndGlobalSection
+EndGlobal
